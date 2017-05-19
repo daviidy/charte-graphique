@@ -1,0 +1,101 @@
+.footertitle, footer h4, footer a, .footerwidget ul li a {
+    color: #fff;
+}
+
+.unitattachments {
+    background: #fbfbfb;
+    padding: 20px;
+    margin: 20px -20px 0;
+    display: none;
+}
+
+body {
+    z-index: 0;
+    background-color: #F9F9F9;
+    color: #313b3d;
+    font-family: 'Source Sans Pro',sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1.35em;
+    font-family: 'Source Sans Pro',sans-serif;
+    color: #282828;
+}
+
+#buddypress div#item-header ul.instructor_meta {
+    float: right;
+    padding: 0 5px;
+    margin: 0;
+    display: none;
+}
+
+#headertop, #headertop a, header #searchicon {
+    color: black;
+}
+
+.heading {
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: none !important;
+}
+.custom_block h3 {
+    font-weight: 600;
+    text-transform: none !important;
+    font-size: 17px;
+    margin-bottom: 0;
+}
+.custom_block h3 + p {
+    color: #bbb;
+    margin-top: 0;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: none !important;
+}
+.ahref, .error, .link, .reply a {
+    font-size: 11px;
+    text-transform: none !important;
+}
+nav .menu li a {
+       font-size: 13px;
+    text-transform: none !important;
+  }
+#headertop {
+    font-size: 11px;
+    text-transform: none !important;
+}
+
+.breadcrumbs li, .indate {
+    font-size: 11px;
+    text-transform: none !important;
+}
+
+.course_instructor {
+    margin: 0;
+    font-size: 13px;
+    text-transform: none;
+}
+
+#footerbottom, .footertitle, .nav-tabs>li>a, .tagcloud a, .widget .widget_title, footer h4, span.small_text {
+    text-transform: none;
+}
+
+.pop_menu_item > a {
+display: none !important;
+}
+
+body, html {
+    font-size: 17px;
+}
+
+.sidemenu li a {
+    color: #1ca3cf;
+    }
+
+.woocommerce div.product .woocommerce-tabs ul.tabs {
+    list-style: none;
+    padding: 0 0 0 5px;
+    margin: 0 0 1.618em;
+    overflow: hidden;
+    position: relative;
+    display: none;
+}
